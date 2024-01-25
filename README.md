@@ -1,6 +1,6 @@
 # Machine Learning Practice Projects
 
-Welcome to the Machine Learning Practice Projects repository! 🚀 This collection of hands-on projects is crafted to enhance your machine learning skills through practical applications. Explore various domains, experiment with algorithms, and gain valuable experience with real-world datasets.
+Welcome to the Machine Learning Practice Projects repository! 🚀 This collection of hands-on projects is crafted to enhance machine learning skills through practical applications. Explore various domains, experiment with algorithms, and gain valuable experience with real-world datasets.
 
 ## Projects Overview
 
